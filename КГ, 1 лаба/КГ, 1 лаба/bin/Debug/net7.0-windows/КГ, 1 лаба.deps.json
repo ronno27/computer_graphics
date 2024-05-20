@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "КГ, 1 лаба/1.0.0": {
+        "runtime": {
+          "КГ, 1 лаба.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "КГ, 1 лаба/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

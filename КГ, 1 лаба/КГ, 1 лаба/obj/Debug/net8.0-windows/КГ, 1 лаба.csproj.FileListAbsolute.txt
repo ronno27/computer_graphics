@@ -1,0 +1,16 @@
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\bin\Debug\net8.0-windows\КГ, 1 лаба.exe
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\bin\Debug\net8.0-windows\КГ, 1 лаба.deps.json
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\bin\Debug\net8.0-windows\КГ, 1 лаба.runtimeconfig.json
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\bin\Debug\net8.0-windows\КГ, 1 лаба.dll
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\bin\Debug\net8.0-windows\КГ, 1 лаба.pdb
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ__1_лаба.Form1.resources
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.csproj.GenerateResource.cache
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.dll
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\refint\КГ, 1 лаба.dll
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.pdb
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\КГ, 1 лаба.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\КГ, 1 лаба\КГ, 1 лаба\obj\Debug\net8.0-windows\ref\КГ, 1 лаба.dll
